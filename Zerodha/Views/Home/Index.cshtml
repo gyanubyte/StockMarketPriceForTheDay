@@ -1,0 +1,27 @@
+﻿@model Zerodha.Models.Stock
+
+@{
+    ViewBag.Title = "Home";
+}
+
+
+<div class="box trading-panel">
+    <div class="flex trading-panel">
+        <div id="stock-price-panel">
+            @Model.StockSymbol
+        </div>
+        <div id="stock-price-panel">
+           <h1>Current Price: </h1> @Model.CurrentPrice
+        </div>
+        <div id="stock-price-panel">
+            <h1>Highest Price: </h1> @Model.HightestPrice
+        </div>
+        <div id="stock-price-panel">
+            <h1>Lowest Price: </h1> @Model.LowestPrice
+        </div>
+        <div id="stock-price-panel">
+            <h1>Open Price: </h1> @Model.OpenPrice
+        </div>
+    </div>
+</div>
+<h1>Home</h1>

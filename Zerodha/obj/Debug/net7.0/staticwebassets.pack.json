@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\AspDotNetCore\\Zerodha\\Zerodha\\wwwroot\\StyleSheet.css",
+      "PackagePath": "staticwebassets\\StyleSheet.css"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Zerodha.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Zerodha.props",
+      "PackagePath": "build\\Zerodha.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Zerodha.props",
+      "PackagePath": "buildMultiTargeting\\Zerodha.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Zerodha.props",
+      "PackagePath": "buildTransitive\\Zerodha.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

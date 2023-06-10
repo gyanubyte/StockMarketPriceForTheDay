@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "Ii1wQ2daNHbb0iWerMnZIELbeHMQF7EuqyCwlHx7olc=",
+  "Source": "Zerodha",
+  "BasePath": "_content/Zerodha",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Zerodha\\wwwroot",
+      "Source": "Zerodha",
+      "ContentRoot": "D:\\AspDotNetCore\\Zerodha\\Zerodha\\wwwroot\\",
+      "BasePath": "_content/Zerodha",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "D:\\AspDotNetCore\\Zerodha\\Zerodha\\wwwroot\\StyleSheet.css",
+      "SourceId": "Zerodha",
+      "SourceType": "Discovered",
+      "ContentRoot": "D:\\AspDotNetCore\\Zerodha\\Zerodha\\wwwroot\\",
+      "BasePath": "_content/Zerodha",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}
